@@ -1,0 +1,16 @@
+<section> - Representa uma sessão generica como uma lista de arquivos
+<header> - cabeçalho da pagina
+<article> - conteudo relevante
+<aside> - representa um conteudo relacionado ao conteudo principal da pagina
+<footer> rodape da pagina
+<h1> - <h6> - titulos
+<p> - paragrafo, conteudo do artigo
+<a> -  ancora, interliga elementos da web
+<a href="LINK"> - aponta para o site que esta na posição de link, email e até telefones com os prefixo "mailto" para email e "mailtel" para telefone
+<a target="_blank"> - diz pra pagina abrir o link em uma nova aba
+<img>
+<img src="CAMINHO DA IMAGEM"> - adiciona imagem EX. <img src="img/avatar.jpg>
+<img alt="DESCRIÇÂO DA FOTO"> - mostra descrição da foto quando ela não esta carregada
+<ul> - lista onde a ordem dos itens não é importante
+<ol> -  lista onde a ordem dos itens é importante e são representandos por numeros, letras ou algarismos romanos
+<li> - item da lista

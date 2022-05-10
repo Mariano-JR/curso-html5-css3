@@ -1,0 +1,45 @@
+-Seleções-
+. - seleção de classes html
+# - seleção de classes html por id
+
+-
+
+-Box Model-
+margin - espaçamento entre elemento
+border - circula o padding e o conteudo, podendo ser alterada a aparencia
+padding - espaçamento entre a borda e o conteudo
+content - conteudo da box model
+
+-
+
+-Background_
+background-color - altera a cor de fundo
+background-image: url("nomeDaImagem") - adiciona uma imagem
+background-position - altera o posicionamento
+
+-
+
+-Border-
+border: largura estilo cor; - contem 3 estilos na mesma unidade
+estilos: solid (Solida), dotted (pontilhada), dashed (tracejada)
+border-radius - usado para aredondar os cantos por px ou %
+
+-Fonts-
+font-family - altera a fonte do texto
+font-size - altera o tamanho da fonte
+font-style - altera a aparecia do texto
+font-weight - altera o peso do texto
+text-transform - altera o texto entre maiusculos e menusculos
+text-decoration - faz uma decoração no texto
+text-aligh - alinhar textos
+
+-List-
+list-style-type - altera o marcador da lista
+list-style-image: url("nomeDaImagem.jpg") - altera o marcador para uma imagem
+
+-Width $$ Heigth-
+
+width - largura
+heigth - altura
+max-width - largura maxima
+max-heigth - altura maxima 
